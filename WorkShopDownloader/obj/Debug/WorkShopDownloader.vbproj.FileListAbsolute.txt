@@ -1,0 +1,12 @@
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\bin\Debug\WorkShopDownloader.exe.config
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\bin\Debug\WorkShopDownloader.exe
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\bin\Debug\WorkShopDownloader.pdb
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\bin\Debug\WorkShopDownloader.xml
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\obj\Debug\WorkShopDownloader.Form1.resources
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\obj\Debug\WorkShopDownloader.Resources.resources
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\obj\Debug\WorkShopDownloader.vbproj.GenerateResource.cache
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\obj\Debug\WorkShopDownloader.vbproj.CoreCompileInputs.cache
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\obj\Debug\WorkShopDownloader.exe
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\obj\Debug\WorkShopDownloader.xml
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\obj\Debug\WorkShopDownloader.pdb
+C:\Users\Francesc\Desktop\WorkShopDownloader\WorkShopDownloader\obj\Debug\WorkShopDownloader.vbproj.AssemblyReference.cache
